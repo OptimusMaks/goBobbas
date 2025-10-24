@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "tkt-icn.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

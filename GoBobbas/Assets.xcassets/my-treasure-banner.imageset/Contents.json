@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "my-treasure-banner.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
